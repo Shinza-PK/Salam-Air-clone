@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}   
+.banner{
+    background-color: rgb(2, 80, 104);
+    height: 60px;
+    align-items: center;
+}
+ .carousel{
+    position: relative;
+ }
+.container{
+    position: absolute;
+    top: 88vh;
+    left: 100px;
+    background-color: rgb(105, 172, 6);
+    height: 25vh;
+
+}
+.row{
+    height: 60px;
+    text-align: center;
+    
+}
+.col-auto{
+    padding-top: 20px;
+}
+.col-auto input{
+    height: 40px;
+width: 50vh;
+border: none;
+}
+.col-auto button{
+    height: 40px;
+    width: 50vh;  
+}
+.box-one{
+    background-color: rgb(244, 252, 227);
+    padding: 10px 20px 20px 30px;
+    border-top: 5px  solid rgb(161, 163, 161);
+    font-size: small;
+    font-weight: 700;
+    color:rgb(105, 172, 6) ;
+    margin-left: 5px;
+}
+.grid{
+    margin-left: 30vh;
+}
+.destination{
+    background-color:rgb(244, 252, 227) ;
+    
+}
+
+.action button{
+    border: 1px solid gray;
+    border-radius: 1px;
+    height: 50px;
+    width: 40vh;
+}
+.sub{
+    height: 35vh;
+}
+.footer{
+    height: 70vh;
+    background-color:rgb(2, 80, 104) ;
+}
+.book{
+    color: rgb(105, 172, 6);
+    font-weight: 500;
+
+
+}
+.book a{
+    text-decoration: none;
+    color: azure;
+    font-weight: 100;
+    font-size: small;
+}
+.ikon{
+    color: azure;
+    height: 50px;
+    padding-left:20px ;
+    margin-left: 20px;
+}
+.foot{
+    height: 70px;
+    background-color: rgb(105, 172, 6);
+    padding-top: 10px;
+    padding-left: 100px;
+    color: azure;
+}
